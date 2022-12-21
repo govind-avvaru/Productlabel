@@ -1,0 +1,8 @@
+{
+    "smile_productlabel": {
+        "column": {
+            "rule_id_type": true,
+            "category_id": true
+        }
+    }
+}
